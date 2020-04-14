@@ -18,4 +18,4 @@ python3 app.py
 
 then, open your browser, type in utl bar '127.0.0.1:5000'
 
-![display]{statis/images/display.png}
+![display]{static/images/display.png}
